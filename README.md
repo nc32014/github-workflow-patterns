@@ -69,3 +69,4 @@ As showned in the previous pattern, whole objects can be passed as input to a ma
 [Example](.github/workflows/dynamic-services.yml)
 
 #
+#
