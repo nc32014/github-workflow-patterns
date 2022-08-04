@@ -67,3 +67,5 @@ It is possible to pass more than simple arrays of strings or numbers to matrices
 As showned in the previous pattern, whole objects can be passed as input to a matrix. It is then possible to use these objects as service definitions. This is usefull when testing application across different databases for example.
 
 [Example](.github/workflows/dynamic-services.yml)
+
+#
